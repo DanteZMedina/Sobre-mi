@@ -1,0 +1,25 @@
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+body { 
+    background-color: #f1faee
+}
+
+#button-buscar { 
+    background-color: #14213d;
+    font-family: "Asimovian", sans-serif;
+}
+
+#button-descubrir { 
+    background-color: #14213d;
+    font-family: "Story Script", sans-serif;
+}
+
+#main-name { 
+    color: #006d77
+}
+
